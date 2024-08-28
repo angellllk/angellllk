@@ -2,7 +2,7 @@
 
 My name is Angel and I am a Junior Software Developer with Go(lang) (3 years of experience). 
 - 🚀 Effective Coding with Go 
-- 🛠️ Currently learning CI/CD and deployment patterns and best practices
+- 🛠️ Currently learning CI/CD, deployment patterns and best practices
 - ⚙️ Expertise with RESTful APIs
 
 <!--
