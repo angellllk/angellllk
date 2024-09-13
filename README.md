@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Angel and I am a Junior Software Developer with Go(lang) (3 years of experience). 
-- 🚀 Effective Coding with Go 
+My name is Angel and I am a Junior Software Developer with Go(lang). 
+- 🚀 Coding with Go.
 - 🛠️ Currently learning CI/CD, deployment patterns and best practices
-- ⚙️ Expertise with RESTful APIs
+- ⚙️ RESTful APIs, security
 
 <!--
 **angellllk/angellllk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
