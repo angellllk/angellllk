@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Angel and I am a Junior Software Developer with Go(lang). 
+My name is Angel and I am an Software Engineer with Go(lang). 
 - 🚀 Coding with Go.
-- 🛠️ Currently learning CI/CD, deployment patterns and best practices
+- 🛠️ CI/CD, deployment patterns, Linux
 - ⚙️ RESTful APIs, security
 
 <!--
