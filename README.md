@@ -8,8 +8,6 @@ I am **Angel**, a software engineer with a specialty on **Go**, who focuses on c
 - 🚀 Using Go to develop APIs
 - 🛠️ Working with CI/CD, deployment patterns, and Linux
 - 🔏 Exploring security best practices and other related topics
-
-✨ You can check my public repositories and also [IndySDK Go Bindings](https://github.com/joyride9999/IndySdkGoBindings) on which I contributed.
   
 ### 📚 Currently learning:
 - ⚡ Caching (Redis)
