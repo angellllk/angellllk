@@ -2,20 +2,21 @@
 
 I am **Angel**, a software engineer with a specialty on **Go**, who focuses on creating secure and scalable APIs and staying current with programming subjects. My long-term objective is to become an **architect**.
 
+🔹**Currently** developing a personal projects based on microservices. You can check out my progress [here](https://github.com/dashboard-platform)_
 
-### 🔹My work:
+### My work:
 
 - 🚀 Using Go to develop APIs
 - 🛠️ Working with CI/CD, deployment patterns, and Linux
 - 🔏 Exploring security best practices and other related topics
   
-### 📚 Currently learning:
+### Learning path:
 - ⚡ Caching (Redis)
 - 📊 Performance monitoring (Grafana)
 - ☁️ Cloud computing (AWS, Kubernetes)
 
 
-### 🚀 Beyond coding, I enjoy:
+### Beyond coding, I enjoy:
 - 🏀 Playing basketball
 - ✈️ Traveling and exploring new places
 - 🚵 Quad biking adventures
