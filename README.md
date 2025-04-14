@@ -2,7 +2,7 @@
 
 I am **Angel**, a software engineer with a specialty on **Go**, who focuses on creating secure and scalable APIs and staying current with programming subjects. My long-term objective is to become an **architect**.
 
-🔹**Currently** developing a personal projects based on microservices. You can check out my progress [here](https://github.com/dashboard-platform)_
+🔹**Currently** developing a personal projects based on microservices. You can check out my progress [here](https://github.com/dashboard-platform).
 
 ### My work:
 
