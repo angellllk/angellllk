@@ -7,13 +7,8 @@ I am **Angel**, a software engineer with a specialty on **Go**, who focuses on c
 ### My work:
 
 - 🚀 Using Go to develop APIs
-- 🛠️ Working with CI/CD, deployment patterns, and Linux
+- 🛠️ Working with CI/CD, deployment patterns, containerization and Linux
 - 🔏 Exploring security best practices and other related topics
-  
-### Learning path:
-- ⚡ Caching (Redis)
-- 📊 Performance monitoring (Grafana)
-- ☁️ Cloud computing (AWS, Kubernetes)
 
 
 ### Beyond coding, I enjoy:
