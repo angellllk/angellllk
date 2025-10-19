@@ -1,36 +1,56 @@
-## Hi there 👋
+### Hi there, I'm Angel 👋
 
-I am **Angel**, a software engineer with a specialty on **Go**, who focuses on creating secure and scalable APIs and staying current with programming subjects. My long-term objective is to become an **architect**.
+I'm a **Cybersecurity Specialist** at Siemens, where my work bridges software engineering, the development lifecycle, and software architecture—all with **a focus on security**.
 
-🔹**Currently** developing a personal projects based on microservices. You can check out my progress [here](https://github.com/dashboard-platform).
+I'm passionate about building secure and efficient systems. A career goal that reflects my knowledge and future desired professional activities is to become a **Software Architect**.
 
-### My work:
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
-- 🚀 Using Go to develop APIs
-- 🛠️ Working with CI/CD, deployment patterns, containerization and Linux
-- 🔏 Exploring security best practices and other related topics
+---
 
+### Experience & Projects
 
-### Beyond coding, I enjoy:
-- 🏀 Playing basketball
-- ✈️ Traveling and exploring new places
-- 🚵 Quad biking adventures
-- :video_game: Gaming with friends
+My software development work is centered on **Go**, while also exploring other languages like C#, Python, and C++. I enjoy debugging and deconstructing code to better understand the magic behind it.
 
+You can find all of my personal projects and explorations right here on my GitHub profile. While my professional work projects aren't displayed publicly, I can reference my contributions to Go wrappers for the following libraries:
 
+* [IndySDK Go Bindings](https://github.com/joyride9999/IndySdkGoBindings) - A publicly available wrapper.
+* [Askar Go](https://github.com/openwallet-foundation/askar) - A Go wrapper for the Askar library (developed internally).
 
-  
-<!--
-**angellllk/angellllk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of the IT scope, I enjoy:
+
+* Basketball & Tennis
+* Playing the piano
+* Gaming sessions
+* Quad driving
+* Meet-ups with friends
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out. I'm always open to new opportunities and collaborations.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dr%C4%83ghici-angel-valentin-80a678326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Angel Drăghici LinkedIn"/>
+  </a>
+  <a href="mailto:angel.draghici@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Angel Drăghici Email"/>
+  </a>
+</p>
