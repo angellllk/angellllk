@@ -21,7 +21,7 @@ I'm passionate about building secure and efficient systems. A career goal that r
 
 ### Experience & Projects
 
-My software development work is centered on **Go**, while also exploring other languages like C#, Python, and C++. I enjoy debugging and deconstructing code to better understand the magic behind it.
+My software development work is centered on **Go**, while also exploring other languages like C#, Python, Rust and C++. I enjoy debugging and deconstructing code to better understand the magic behind it.
 
 You can find all of my personal projects and explorations right here on my GitHub profile. While my professional work projects aren't displayed publicly, I can reference my contributions to Go wrappers for the following libraries:
 
