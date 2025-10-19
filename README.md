@@ -1,6 +1,6 @@
 ### Hi there, I'm Angel 👋
 
-I'm a **Cybersecurity Specialist** at Siemens, where my work bridges software engineering, the development lifecycle, and software architecture—all with **a focus on security**.
+I'm a **Cybersecurity Specialist** at Siemens, where my work bridges software engineering, the development lifecycle, and software architecture, all with **a focus on security**.
 
 I'm passionate about building secure and efficient systems. A career goal that reflects my knowledge and future desired professional activities is to become a **Software Architect**.
 
