@@ -1,6 +1,6 @@
 ### Hi there, I'm Angel 👋
 
-I'm a **Cybersecurity Specialist** at Siemens, where my work bridges software engineering, the development lifecycle, and software architecture, all with **a focus on security**.
+I'm a **Cybersecurity Specialist** where my work bridges software engineering, the development lifecycle, and software architecture, all with **a focus on security**.
 
 I'm passionate about building secure and efficient systems. A career goal that reflects my knowledge and future desired professional activities is to become a **Software Architect**.
 
@@ -21,7 +21,7 @@ I'm passionate about building secure and efficient systems. A career goal that r
 
 ### Experience & Projects
 
-My software development work is centered on **Go**, while also exploring other languages like C#, Python, Rust and C++. I enjoy debugging and deconstructing code to better understand the magic behind it.
+My software development work is centered on **Go**, while also exploring other languages like C#, Python, Rust, Javascript and C++. I enjoy debugging and deconstructing code to better understand the magic behind it.
 
 You can find all of my personal projects and explorations right here on my GitHub profile. While my professional work projects aren't displayed publicly, I can reference my contributions to Go wrappers for the following libraries:
 
@@ -47,10 +47,7 @@ Outside of the IT scope, I enjoy:
 Feel free to reach out. I'm always open to new opportunities and collaborations.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dr%C4%83ghici-angel-valentin-80a678326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Angel Drăghici LinkedIn"/>
-  </a>
-  <a href="mailto:angel.draghici@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Angel Drăghici Email"/>
+  <a href="mailto:angelxyz711@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Angel Email"/>
   </a>
 </p>
