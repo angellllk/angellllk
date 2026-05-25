@@ -1,8 +1,8 @@
 ### Hi, I'm Angel 👋
 
-**Backend engineer (Go) focused on self-hosted / on-prem infrastructure, Kubernetes, Docker, OpenStack, Linux, with a security background.**
+**Secure Go backend engineer. I build PoCs and MVPs where the backend and security have to be right from the start.**
  
-I build secure, efficient backend systems and the infrastructure that runs them. My work sits where Go backends meet real-world deployment: containerization, orchestration, and private-cloud infrastructure. Long-term, I'm working toward becoming a **Software Architect**.
+I like owning a problem end to end: prototyping an idea, hardening it, and shipping it. My background is production Go and applied cryptography: I built Go bindings for the Hyperledger stack that went into production for issuing and verifying verifiable credentials. I hold an MSc in Computer Science (Cybersecurity & Applied Logic) and am working long-term toward a software architect role.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,26 +18,28 @@ I build secure, efficient backend systems and the infrastructure that runs them.
 
 ### What I do
  
-- **Backend in Go**: services, APIs, and tooling. Go is my primary language; I also work with Python and Bash, and I'm familiar with C#, Rust, and C++.
-- **Containers & orchestration**: Docker and Kubernetes, including running k8s **on-prem** on bare VMs rather than managed cloud.
-- **Private-cloud infrastructure**: hands-on with OpenStack (Kolla, Open vSwitch, Neutron networking), experience with debugging and testing full environments end to end.
-- **Security**: a cybersecurity background that shapes how I design, deploy, and review systems.
+- **Secure Go backends**: REST APIs and services in Go (GoFiber, GORM/sqlx), concurrency-heavy workloads (goroutines, channels, worker pools), built with SOLID and clean-architecture principles and real test coverage.
+- **Digital identity & cryptography**: production Go/CGo bindings over the Hyperledger Indy / Aries / AnonCreds stack: credential issuance, proof verification, and wallet management (PostgreSQL and in-memory).
+- **Prototype → harden → ship**: taking an idea to a working, defensible state: rate limiting and firewall hardening under real attack traffic, CI/CD (GitLab, GitHub Actions), and containerized delivery (Docker, Kubernetes).
+- **Security-first**: an MSc in Cybersecurity & Applied Logic that shapes how I design, review, and harden systems.
 > Most of my professional work isn't public. The projects and contributions below are what I can share openly.
 
 * [IndySDK Go Bindings](https://github.com/joyride9999/IndySdkGoBindings) - A publicly available wrapper.
-* [Askar Go](https://github.com/openwallet-foundation/askar) - A Go wrapper for the Askar library (developed internally).
+* [Askar Go](https://github.com/openwallet-foundation/askar) - A Go wrapper for the Askar library 
 
 ---
 
 ### Selected work
  
-- **[go-vulcano](https://github.com/angellllk/go-vulcano)** - a security tool in Go for port scanning, DNS resolution, and web vulnerability scanning.
-- **[IndySDK Go Bindings](https://github.com/joyride9999/IndySdkGoBindings)** - contributions to a public Go wrapper.
-- **[Askar (Go)](https://github.com/openwallet-foundation/askar)** - a Go wrapper for the Askar library.
+- **[IndySDK Go Bindings](https://github.com/angellllk/IndySdkGoBindings)**: Go/CGo wrapper over the Hyperledger Indy stack for credential issuance, proof verification, and wallet management (PostgreSQL + in-memory). Reached production as part of self-sovereign identity work. *Stack: Go, CGo, GORM.*
+- **[go-vulcano](https://github.com/angellllk/go-vulcano)**: a security tool in Go for port scanning, DNS resolution, and web vulnerability scanning, designed around a worker pool for bounded, configurable concurrency. *Stack: Go, GoFiber, GORM, goquery.*
+- **[ucp-backend](https://github.com/angellllk/ucp-backend)**: control-panel backend serving an online community, hardened against real DDoS traffic with rate limiting and firewall rules, delivered to a VPS via CI/CD. *Stack: Go, GoFiber, GORM, GitHub Actions, Linux.*
+- **[Askar (Go)](https://github.com/openwallet-foundation/askar)**: a Go wrapper for the Askar library (developed internally).
+
 ---
 
 ### Let's connect
  
-📍 Bucharest, Romania — open to backend & infrastructure work and collaborations.
+📍 Bucharest, Romania - open to secure backend, digital-identity, and technical PoC/MVP work.
  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelxyz711@gmail.com)
